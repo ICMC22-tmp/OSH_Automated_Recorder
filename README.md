@@ -74,7 +74,7 @@ Just for fun we thought it would be interesting to include other robotic music p
 
 ## Acknowledgements
 
-The inspiration for this project was <b>Andrew Henry's</b> <a href="https://gitlab.com/Andrew_Henry/automated-guitar">automated guitar player</a>. 
+The inspiration for this project was Andrew Henry's <a href="https://gitlab.com/Andrew_Henry/automated-guitar">automated guitar player</a>. 
 
 ## License
 
