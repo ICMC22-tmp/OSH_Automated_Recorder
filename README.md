@@ -21,7 +21,7 @@ This project had been designed so that it only requires a limited toolset and yo
 4. Load the [Python Interface](Python_Interface) onto your computer.
 
 ### Play a Song
-1. Create your song in MIDI format as a `.mid` file, use one of our [examples](Python_Interface/examples), or find one someone else has made.
+1. Create your song in MIDI format as a `.mid` file ([guide](Python_Interface/README.md#creating-mid-files)), use one of our [examples](Python_Interface/midi_examples), or find one someone else has made.
 2. Connect your computer to the robotic recorder player and use the [Python Interface](Python_Interface) to hear your song played on the recorder!
 
 
@@ -51,7 +51,7 @@ The general process of contributing on GitHub is widely documented however the o
 1. Clone or fork the repository using GitHub desktop or the CLI into this location (CLI is recommended as this helps you become more familiar with Git in general). You can do this with the following command:
 
     ```bash
-    git clone https://github.com/ICMC22-tmp/OSH_Automated_Recorder
+    git clone https://github.com/Kyle-Fogarty/music_makers
     ```
 
 1. Update the project and then make a pull request!
@@ -74,7 +74,7 @@ Just for fun we thought it would be interesting to include other robotic music p
 
 ## Acknowledgements
 
-The inspiration for this project was Andrew Henry's <a href="https://gitlab.com/Andrew_Henry/automated-guitar">automated guitar player</a>. 
+The inspiration for this project was Andrew Henry's <a href="https://gitlab.com/Andrew_Henry/automated-guitar">automated guitar player</a>.
 
 ## License
 
