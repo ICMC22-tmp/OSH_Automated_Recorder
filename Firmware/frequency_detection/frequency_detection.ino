@@ -13,8 +13,8 @@
 
 #include "arduinoFFT.h"
 
-#define SAMPLES 512             // Number of amplitude samples taken from microphone
-#define SAMPLING_FREQUENCY 1800 // [Hz] -> Nyquist–Shannon sampling theorem 
+#define SAMPLES 128             // Number of amplitude samples taken from microphone
+#define SAMPLING_FREQUENCY 2000 // [Hz] -> Nyquist–Shannon sampling theorem 
                                 //         requires sample freq = 2 * highest signal freq
                                 //         that is to be recovered.
                                 
